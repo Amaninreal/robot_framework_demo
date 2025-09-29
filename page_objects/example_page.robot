@@ -3,8 +3,8 @@ Library    SeleniumLibrary
 Library    OperatingSystem
 
 *** Variables ***
-${WEB_URL}      ${WEB_URL}      # OS environment variable
-${BROWSER}  ${BROWSER}      # OS environment variable
+${WEB_URL}      ${WEB_URL}      
+${BROWSER}  ${BROWSER}     
 
 *** Keywords ***
 Open Example Page
